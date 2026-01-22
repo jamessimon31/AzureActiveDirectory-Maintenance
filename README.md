@@ -60,8 +60,9 @@ Close the Group Policy Editor.
 
 ### Step 6: Apply Group Policy
 
-1. Open **Command Prompt** as Administrator.
-2. Run: `gpupdate /force`
+1. Sign in to Client 1 - as `jane_admin`
+2. Open **Command Prompt** as Administrator.
+3. Run: `gpupdate /force`
 
 ---
 
@@ -159,14 +160,3 @@ Common Event IDs to observe:
 
 ---
 
-## Conclusion
-
-In this lab, you:
-
-* Simulated account lockouts
-* Configured account lockout policies using Group Policy
-* Unlocked and reset user accounts
-* Disabled and re-enabled accounts
-* Observed authentication and security events in Event Viewer
-
-This exercise demonstrates real-world Active Directory account management and security monitoring techniques commonly used by system administrators.
