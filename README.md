@@ -1,6 +1,4 @@
-# Active Directory Tutorial: Account Lockouts, Account Management, and Logs
-
-## Overview
+# Active Directory: Account Maintenance
 
 This tutorial walks through how to **simulate account lockouts**, **configure Group Policy**, **unlock and reset accounts**, **enable and disable user accounts**, and **observe logs** on a Domain Controller.
 
